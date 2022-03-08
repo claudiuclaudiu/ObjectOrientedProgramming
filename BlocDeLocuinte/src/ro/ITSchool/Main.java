@@ -13,6 +13,9 @@ public class Main {
         etajul0.adaugaApartament(ap2);
 
 
+        bloc.adaugaEtaj(etajul0);
+        bloc.afiseazaBloc();
+
 
 
     }
